@@ -1,5 +1,8 @@
 # Project-Landing-page
 
+        Recommended Landing Page using Flexbox tool and basic HTML and CSS
+
+
  - Building Html project code using divs and containers mainly (4 sections plus a footer)
  - Using Flexbox to style whole webpage with help of flex exercises
  - Familiarizing more with commit messages more 
